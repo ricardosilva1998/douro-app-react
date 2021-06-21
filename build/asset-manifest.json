@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/douro-app-test/static/css/main.99cf28c2.chunk.css",
+    "main.js": "/douro-app-test/static/js/main.e24e8454.chunk.js",
+    "main.js.map": "/douro-app-test/static/js/main.e24e8454.chunk.js.map",
+    "runtime-main.js": "/douro-app-test/static/js/runtime-main.1e5ab983.js",
+    "runtime-main.js.map": "/douro-app-test/static/js/runtime-main.1e5ab983.js.map",
+    "static/js/2.b7ffa376.chunk.js": "/douro-app-test/static/js/2.b7ffa376.chunk.js",
+    "static/js/2.b7ffa376.chunk.js.map": "/douro-app-test/static/js/2.b7ffa376.chunk.js.map",
+    "static/js/3.0137698e.chunk.js": "/douro-app-test/static/js/3.0137698e.chunk.js",
+    "static/js/3.0137698e.chunk.js.map": "/douro-app-test/static/js/3.0137698e.chunk.js.map",
+    "index.html": "/douro-app-test/index.html",
+    "static/css/main.99cf28c2.chunk.css.map": "/douro-app-test/static/css/main.99cf28c2.chunk.css.map",
+    "static/js/2.b7ffa376.chunk.js.LICENSE.txt": "/douro-app-test/static/js/2.b7ffa376.chunk.js.LICENSE.txt",
+    "static/media/app-icon.1520709f.png": "/douro-app-test/static/media/app-icon.1520709f.png",
+    "static/media/app.1d613187.jpg": "/douro-app-test/static/media/app.1d613187.jpg",
+    "static/media/douro.26ed94be.jpg": "/douro-app-test/static/media/douro.26ed94be.jpg",
+    "static/media/head.cbcdf8f2.jpg": "/douro-app-test/static/media/head.cbcdf8f2.jpg",
+    "static/media/image1.a728aa2d.jpg": "/douro-app-test/static/media/image1.a728aa2d.jpg",
+    "static/media/paisagem.04248fab.jpg": "/douro-app-test/static/media/paisagem.04248fab.jpg",
+    "static/media/redwine.8936f148.jpg": "/douro-app-test/static/media/redwine.8936f148.jpg",
+    "static/media/ricardo.34797e28.png": "/douro-app-test/static/media/ricardo.34797e28.png",
+    "static/media/staff.630beaed.jpg": "/douro-app-test/static/media/staff.630beaed.jpg",
+    "static/media/steak.7084df1c.png": "/douro-app-test/static/media/steak.7084df1c.png",
+    "static/media/twitter.97d4e057.jpg": "/douro-app-test/static/media/twitter.97d4e057.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e5ab983.js",
+    "static/js/2.b7ffa376.chunk.js",
+    "static/css/main.99cf28c2.chunk.css",
+    "static/js/main.e24e8454.chunk.js"
+  ]
+}

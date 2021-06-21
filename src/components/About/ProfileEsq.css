@@ -1,0 +1,70 @@
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.image {
+  margin: 24px 0px auto 12px;
+  width: 636px;
+  height: 636px;
+}
+
+/* img {
+    width: 100%;
+    height: 100%;
+  } */
+
+.descrition {
+  margin-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: white;
+  width: 636px;
+  height: 636px;
+}
+
+.Name {
+  margin-top: 24px;
+}
+.name {
+  color: #61dafb;
+  font-size: 84px;
+}
+.surname {
+  font-weight: bold;
+  color: white;
+  font-size: 112px;
+  margin-top: -42px;
+}
+
+.icon {
+  text-decoration: none;
+  color: lightgray;
+  font-size: 40px;
+  margin: auto 24px;
+}
+
+.quote {
+  font-size: 24px;
+}
+
+button {
+  background-color: #20232a;
+  border: 2px solid white;
+  font-weight: bold;
+  font-size: 24px;
+  color: white;
+  padding: 24px;
+  text-align: center;
+  cursor: pointer;
+  max-height: 100px;
+  min-width: 300px;
+}
+
+button:hover {
+  background-color: #61dafb;
+  color: #20232a;
+}

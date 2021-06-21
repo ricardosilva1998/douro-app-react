@@ -1,0 +1,14 @@
+.facts {
+  text-align: center;
+  background-color: #20232a;
+}
+
+.infofacts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.single_info_facts {
+  width: 100%;
+}

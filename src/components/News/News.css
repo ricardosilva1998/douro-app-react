@@ -1,0 +1,9 @@
+.feedTwitter {
+  max-width: 90%;
+  margin: auto;
+}
+
+/* chekar como aceder ao min-height */
+.twitter-timeline .twitter-timeline-rendered {
+  min-height: 1200px;
+}

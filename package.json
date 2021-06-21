@@ -1,0 +1,61 @@
+{
+  "homepage": "https://ricardosilva1998.github.io/douro-app-test/",
+  "name": "testes",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "concurrently": "^6.1.0",
+    "express": "^4.17.1",
+    "firebase": "^8.6.1",
+    "gh-pages": "^3.2.1",
+    "http": "^0.0.1-security",
+    "http-proxy-middleware": "^0.19.1",
+    "path": "^0.12.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-firebase-hooks": "^3.0.4",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-twitter-embed": "^3.0.3",
+    "react-twitter-embedded-timeline": "^0.5.1",
+    "request": "^2.88.2",
+    "semantic-ui-react": "^2.0.3",
+    "socket.io": "^4.1.2",
+    "socket.io-client": "^4.1.2",
+    "styled-components": "^5.3.0",
+    "util": "^0.11.1",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

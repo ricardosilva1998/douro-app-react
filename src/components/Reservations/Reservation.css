@@ -1,0 +1,122 @@
+.main_reservations {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.reservations {
+  margin-top: 44px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 24px 12px;
+}
+
+.reservation {
+  background-color: #20232a;
+  display: flex;
+  flex-wrap: wrap;
+  border: solid white 2px;
+  border-radius: 25px;
+  color: white;
+  padding: 6px;
+  margin: 12px;
+  width: 580px;
+  min-height: 240px;
+  transition-duration: 0.4s;
+}
+
+.reservation:hover {
+  background-color: #61dafb;
+  border: solid white 2px;
+  border-radius: 0px;
+}
+
+.info {
+  margin: auto 16px;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+.infoHeader {
+  margin: 16px auto;
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.plain_text {
+  display: inline;
+  color: white;
+  font-size: 24px;
+}
+
+.directions {
+  display: flex;
+  align-self: center;
+  margin: 24px auto;
+  font-size: 28px;
+  padding: 6px;
+}
+
+a {
+  margin: auto;
+}
+
+.reservation input[type="button"] {
+  background-color: #61dafb;
+  border: 2px solid white;
+  border-radius: 25px;
+  margin: 50px auto;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.reservation input[type="button"]:hover {
+  background-color: #20232a;
+  border-radius: 0px;
+  color: white;
+}
+
+.reservation input[type="button"] .button a {
+  background-color: white;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0 20px;
+}
+
+.buttonReservations {
+  background-color: #61dafb;
+  border: 2px solid white;
+  border-radius: 25px;
+  margin: 50px auto;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.buttonReservations:hover {
+  background-color: #20232a;
+  border-radius: 0px;
+  color: white;
+}
+
+.buttonReservations a {
+  background-color: transparent;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0 20px;
+}

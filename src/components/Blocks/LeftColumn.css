@@ -1,0 +1,64 @@
+.printLeftColumn {
+  margin: 48px;
+  text-align: center;
+  background-color: #20232a;
+  width: 50%;
+}
+
+.printLeftColumn .leftColTitle {
+  z-index: 1;
+  color: white;
+  font-weight: bold;
+  font-size: 65px;
+}
+
+.printLeftColumn .leftColSubTitle {
+  z-index: -100;
+  margin: -12px auto;
+  color: #61dafb;
+  font-family: "Righteous", cursive;
+  font-weight: bold;
+  font-size: 84px;
+}
+
+.printLeftColumn .text {
+  margin: -12px auto;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.printLeftColumn .button {
+  background-color: #61dafb;
+  border: 2px solid white;
+  border-radius: 25px;
+  margin: 50px auto;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.printLeftColumn .button:hover {
+  background-color: #20232a;
+  border-radius: 0px;
+}
+
+.wineIcon {
+  margin: 24px auto;
+  color: lightgray;
+  font-size: 40px;
+}
+
+.printLeftColumn .button a {
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0 20px;
+}

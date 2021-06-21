@@ -1,0 +1,14 @@
+.MainPage {
+  text-align: center;
+  background-color: #20232a;
+}
+
+.info_main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.single_info {
+  width: 100%;
+}

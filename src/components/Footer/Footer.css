@@ -1,0 +1,18 @@
+.footer {
+  min-height: 100px;
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+}
+
+.footer a {
+  text-decoration: none;
+  color: lightgray;
+  font-size: 40px;
+  margin: auto 24px;
+}
+
+.footer a:hover {
+  color: #61dafb;
+  transition-duration: 0.4s;
+}
